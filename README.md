@@ -2,12 +2,11 @@
 The purpose of this repo is to setup a Docker enviroment.
 
 Pre-requisites
-
-Install Visual Studio Code with Python extension.
-A Github Account
-A Linux Bash Shell
-Windows 10's Bash Shell
-Cygwin for older Windows
+-Install Visual Studio Code with Python extension.
+-A Github Account
+-A Linux Bash Shell
+-Windows 10's Bash Shell
+-Cygwin for older Windows
 
 Steps
 
